@@ -4,6 +4,8 @@
 ### They are anonymous functions without names and they does not belong to any class 
 ### Lambda expressions mainly used to implement functional interfaces
 
+### syntax : (params) -> {body}
+
 
 # Functional Interfaces
 
