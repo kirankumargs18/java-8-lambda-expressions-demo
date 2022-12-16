@@ -1,4 +1,4 @@
-# Java-8-lambda-expressions-demo
+# Lambda Expressions
 
 ### Lambda expressions were introduced in java 8
 ### They are anonymous functions without names and they does not belong to any class 
