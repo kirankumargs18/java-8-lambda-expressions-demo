@@ -9,3 +9,4 @@
 
 ### Functional interfaces were introduced in java 8
 ### Functinal interface can have any number of default, static methods but can contain only one abstract method
+#### Default methods enable you to add new functionality to existing interfaces and ensure binary compatibility with code written for older versions of those interfaces
